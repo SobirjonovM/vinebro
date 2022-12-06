@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vinebro
 - 👀 I’m interested in Backend programming
-- 🌱 I’m currently learning Java Springboot
+- 🌱 I’m currently learning Java Spring Boot
 - 💞️ I’m looking to collaborate on applications 
 - 📫 How to reach me telegram: @the_vinebro , e-mail: sobirjonovmuhammadazizbek@gmailcom 
 
